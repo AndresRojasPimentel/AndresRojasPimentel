@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndresRojasPimentel
-- 👀 I’m interested in Js Css Html
+- 👀 I’m interested in PHP Js Css Html
 - 🌱 I’m currently learning Js
 
 
